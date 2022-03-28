@@ -17,3 +17,7 @@ python3 generator.py > MACRO_LOOP.h
 ## Header Usage
 
 Watch example.cpp
+
+## 感谢
+
+[参考这篇文章进行编写](https://zhou-yuxin.github.io/articles/2016/用C语言宏批量生成代码的思考与实现)
